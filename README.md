@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👩🏻‍💻 Software Engineer @ [VitalFriend](https://vitalfriend.com/)<br/>
-👩🏻‍🎓 Studied [Computer Science] at CUNY Hunter College<br/>
+👩🏻‍🎓 Studied Computer Science at CUNY Hunter College<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afoysal00) 
